@@ -2,3 +2,5 @@
 __pycache__
 data/*
 c1-m2-exercise/EMNIST_data/*
+flower_data/*
+corrupted_flower_data/*

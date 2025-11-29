@@ -5,3 +5,4 @@ c1-m2-exercise/EMNIST_data/*
 flower_data/*
 corrupted_flower_data/*
 c1-m3-exercise/data/*
+cifar_100/*

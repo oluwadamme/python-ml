@@ -6,3 +6,5 @@ flower_data/*
 corrupted_flower_data/*
 c1-m3-exercise/data/*
 cifar_100/*
+c1-m4-exercise/cifar_100/*
+cifar10
